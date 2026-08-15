@@ -1,5 +1,5 @@
 <h1 align="center">Hi stranger👋</h1>
-<p>Just a hardware and software enthusiast over here.<br> I'm currently learning anything i find interesting and its extremely fun</p>
+<p>Just a hardware and software enthusiast over here.<br> I'm currently learning anything i find interesting and its extremely fun :)</p>
 <table align="center">
 <tr border="none">
 <td width="20%" align="center">
