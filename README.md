@@ -5,7 +5,7 @@
   <br><br>
   
   <!-- Highlight for your GitHub Pages Portfolio Deploy -->
-  <a href="https://cafileiro.github.io" target="_blank">
+  <a href="https://cafileiro.github.io/Web-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_My_Live_Portfolio-GitHub_Pages-blue?style=for-the-badge&logo=github" alt="Live Portfolio Deploy"/>
   </a>
 </div>
